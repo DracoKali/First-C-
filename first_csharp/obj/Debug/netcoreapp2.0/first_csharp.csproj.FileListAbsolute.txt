@@ -1,0 +1,10 @@
+/Users/jodiwillard/Documents/C# /first_csharp/bin/Debug/netcoreapp2.0/first_csharp.deps.json
+/Users/jodiwillard/Documents/C# /first_csharp/bin/Debug/netcoreapp2.0/first_csharp.runtimeconfig.json
+/Users/jodiwillard/Documents/C# /first_csharp/bin/Debug/netcoreapp2.0/first_csharp.runtimeconfig.dev.json
+/Users/jodiwillard/Documents/C# /first_csharp/bin/Debug/netcoreapp2.0/first_csharp.dll
+/Users/jodiwillard/Documents/C# /first_csharp/bin/Debug/netcoreapp2.0/first_csharp.pdb
+/Users/jodiwillard/Documents/C# /first_csharp/obj/Debug/netcoreapp2.0/first_csharp.csproj.CoreCompileInputs.cache
+/Users/jodiwillard/Documents/C# /first_csharp/obj/Debug/netcoreapp2.0/first_csharp.AssemblyInfoInputs.cache
+/Users/jodiwillard/Documents/C# /first_csharp/obj/Debug/netcoreapp2.0/first_csharp.AssemblyInfo.cs
+/Users/jodiwillard/Documents/C# /first_csharp/obj/Debug/netcoreapp2.0/first_csharp.dll
+/Users/jodiwillard/Documents/C# /first_csharp/obj/Debug/netcoreapp2.0/first_csharp.pdb
